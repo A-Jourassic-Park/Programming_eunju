@@ -15,3 +15,11 @@
 #### 3.3 프로세스와 스레드 https://honored-people-b2c.notion.site/3-3-81b5b88fb7934e68887ff6af4925f3c1
 #### 백준 문제 20058 풀이
 #### 소감 https://guiltless-airport-8a2.notion.site/07-20-243059cdd1b94f1da624e313e9a19476
+
+
+## 07.27 TIL
+#### 구현 이론 https://honored-people-b2c.notion.site/e609036fc6f94bf9a3a09600f652872f
+#### 3.2 메모리 https://honored-people-b2c.notion.site/3-2-be43c1d83a7e4ad596ada987fca61c30
+#### 백준 문제 20061 풀이
+#### 도커 특강 https://honored-people-b2c.notion.site/543ab3a72f6a48919e5e0b1e3dc2895c
+#### 소감 https://guiltless-airport-8a2.notion.site/7-27-8a54d2f57b054eb8b2332dd8180b0ff0
