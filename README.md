@@ -23,3 +23,9 @@
 #### 백준 문제 20061 풀이
 #### 도커 특강 https://honored-people-b2c.notion.site/543ab3a72f6a48919e5e0b1e3dc2895c
 #### 소감 https://guiltless-airport-8a2.notion.site/7-27-8a54d2f57b054eb8b2332dd8180b0ff0
+
+
+## 08.04 TIL
+#### 3.4 CPU스케줄링 알고리즘 https://honored-people-b2c.notion.site/3-4-CPU-96af2dd7e18f4b018e6435e5b05b09ac
+#### 프로그래머스 문제 택시 합승 요금 풀이
+#### 소감 https://guiltless-airport-8a2.notion.site/08-04-b0ebc8afdd544f84890db90bd1fe61b3
