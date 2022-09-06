@@ -29,3 +29,8 @@
 #### 3.4 CPU스케줄링 알고리즘 https://honored-people-b2c.notion.site/3-4-CPU-96af2dd7e18f4b018e6435e5b05b09ac
 #### 프로그래머스 문제 택시 합승 요금 풀이
 #### 소감 https://guiltless-airport-8a2.notion.site/08-04-b0ebc8afdd544f84890db90bd1fe61b3
+
+## 08.09 TIL
+#### 5.3 비선형 자료 구조 https://chipped-society-887.notion.site/bb676741f36d49d7830541850a735b6d
+#### 프로그래머스 문제 매칭 점수
+#### 소감 https://guiltless-airport-8a2.notion.site/08-04-b0ebc8afdd544f84890db90bd1fe61b3
